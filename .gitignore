@@ -105,3 +105,7 @@ dist
 /RawStringLiterals/bin/Debug/net7.0
 /RawStringLiterals/obj
 /.vs/CSharp11Demo
+/StringInterpolationNewline/bin/Debug/net7.0
+/StringInterpolationNewline/obj
+/Utf8StringLiterals/bin/Debug/net7.0
+/Utf8StringLiterals/obj
